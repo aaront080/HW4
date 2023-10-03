@@ -10,5 +10,5 @@ This HW assignment was designing a multiple choice quiz that utilized various el
 ## Installation
 -I first developed to structure of my application in HTML, after that I applied some CSS to give it some refined style, and then add JavaScript to give the site functionally.
 
-## Usage 
+
 
